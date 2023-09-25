@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "This is Namaste React by Akshay Saini",
-  "main": "App.js",
+  
   "scripts": {
     "test": "jest"
   },

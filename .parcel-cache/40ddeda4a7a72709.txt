@@ -1,4 +1,4 @@
-5972
+5970
 77E:\React\namasteReact\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133398510565278606 1
 54E:\React\namasteReact\node_modules\srcset\package.json133398510543847512 0
 52E:\React\namasteReact\node_modules\has-flag\index.js133398510540957491 0
@@ -13,7 +13,7 @@
 63E:\React\namasteReact\node_modules\@parcel\cache\lib\FSCache.js133398510567498594 0
 66E:\React\namasteReact\node_modules\caniuse-lite\data\regions\BY.js133398510567758610 0
 116E:\React\namasteReact\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133398510568338607 0
-34E:\React\namasteReact\package.json133400291729336782 0
+34E:\React\namasteReact\package.json133401178690865192 0
 64E:\React\namasteReact\node_modules\lightningcss\node\ast.js.flow133398510549117503 0
 91E:\React\namasteReact\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\supports.js133398510581558606 0
 91E:\React\namasteReact\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133398510608628606 0
@@ -33,9 +33,9 @@
 71E:\React\namasteReact\node_modules\css-tree\cjs\syntax\function\var.cjs133398510571498630 0
 105E:\React\namasteReact\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\TokenStream.js133398510571518606 0
 69E:\React\namasteReact\node_modules\svgo\plugins\convertShapeToPath.js133398510554662679 0
-26E:\React\namasteReact\dist133401081347439189 1
+26E:\React\namasteReact\dist133401178698505339 1
 52E:\React\namasteReact\node_modules\dotenv-expand\lib133398510545297512 1
-28E:\React\namasteReact\App.js133401081345699243 0
+28E:\React\namasteReact\App.js133401176404058074 0
 77E:\React\namasteReact\node_modules\caniuse-lite\data\features\css-any-link.js133398510571588612 0
 69E:\React\namasteReact\node_modules\svgo\plugins\removeStyleElement.js133398510561778320 0
 77E:\React\namasteReact\node_modules\caniuse-lite\data\features\cryptography.js133398510571118596 0
@@ -81,7 +81,7 @@
 117E:\React\namasteReact\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133398510540317514 0
 85E:\React\namasteReact\node_modules\csso\node_modules\css-tree\cjs\generator\index.cjs133398510562648306 0
 57E:\React\namasteReact\node_modules\term-size\vendor\macos133398510546827529 1
-31E:\React\namasteReact\README.md133401082704026236 0
+31E:\React\namasteReact\README.md133401177616468826 0
 86E:\React\namasteReact\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts133398510563648601 0
 50E:\React\namasteReact\node_modules\process\test.js133400291729186801 0
 43E:\React\namasteReact\node_modules\css-tree133398510582488609 1
@@ -839,7 +839,6 @@
 97E:\React\namasteReact\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133398510606418613 0
 84E:\React\namasteReact\node_modules\caniuse-lite\data\features\es6-string-includes.js133398510583398604 0
 57E:\React\namasteReact\node_modules\ansi-styles\index.d.ts133398510544387507 0
-51E:\React\namasteReact\dist\namasteReact.3464ddca.js133400295613021334 0
 75E:\React\namasteReact\node_modules\csso\node_modules\mdn-data\css\readme.md133398510557972682 0
 70E:\React\namasteReact\node_modules\update-browserslist-db\package.json133398510547917505 0
 84E:\React\namasteReact\node_modules\csso\node_modules\css-tree\lib\syntax\node\Raw.js133398510581088613 0
@@ -2857,7 +2856,6 @@
 69E:\React\namasteReact\node_modules\csso\node_modules\mdn-data\LICENSE133398510538397505 0
 71E:\React\namasteReact\node_modules\csso\node_modules\mdn-data\README.md133398510558152677 0
 83E:\React\namasteReact\node_modules\csso\cjs\restructure\prepare\processSelector.cjs133398510558162672 0
-55E:\React\namasteReact\dist\namasteReact.3464ddca.js.map133400295613041912 0
 75E:\React\namasteReact\node_modules\csso\node_modules\mdn-data\l10n\index.js133398510545237503 0
 79E:\React\namasteReact\node_modules\csso\node_modules\mdn-data\css\at-rules.json133398510546657526 0
 91E:\React\namasteReact\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133398510581598607 0
@@ -3015,7 +3013,7 @@
 85E:\React\namasteReact\node_modules\csso\node_modules\css-tree\lib\convertor\create.js133398510572258602 0
 122E:\React\namasteReact\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133398510552152679 0
 95E:\React\namasteReact\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133398510554052679 0
-48E:\React\namasteReact\dist\index.7826abd7.js.map133401081347429211 0
+48E:\React\namasteReact\dist\index.7826abd7.js.map133401178698495296 0
 84E:\React\namasteReact\node_modules\csso\node_modules\css-tree\lib\convertor\index.js133398510577398627 0
 53E:\React\namasteReact\node_modules\css-tree\lib\utils133398510582008597 1
 69E:\React\namasteReact\node_modules\@swc\helpers\src\_ts_generator.mjs133398510585038609 0
@@ -5898,7 +5896,6 @@
 64E:\React\namasteReact\node_modules\@lezer\lr\dist\constants.d.ts133398510553832688 0
 62E:\React\namasteReact\node_modules\@lezer\lr\dist\constants.js133398510551812682 0
 61E:\React\namasteReact\node_modules\@lezer\lr\dist\index.d.cts133398510551422665 0
-48E:\React\namasteReact\dist\index.6bd02f5a.js.map133400295613527848 0
 77E:\React\namasteReact\node_modules\@babel\helper-validator-identifier\scripts133398510549827498 1
 60E:\React\namasteReact\node_modules\@lezer\lr\dist\index.d.ts133398510554172677 0
 56E:\React\namasteReact\node_modules\@lezer\common\LICENSE133398510551722681 0
@@ -5915,6 +5912,7 @@
 75E:\React\namasteReact\node_modules\@babel\highlight\node_modules\color-name133398510546397508 1
 79E:\React\namasteReact\node_modules\@babel\highlight\node_modules\supports-color133398510543657506 1
 92E:\React\namasteReact\node_modules\@babel\highlight\node_modules\supports-color\package.json133398510538407501 0
+48E:\React\namasteReact\dist\index.1ff39644.js.map133401170228132432 0
 82E:\React\namasteReact\node_modules\@babel\highlight\node_modules\has-flag\index.js133398510539477502 0
 81E:\React\namasteReact\node_modules\@babel\highlight\node_modules\has-flag\license133398510541387497 0
 90E:\React\namasteReact\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133398510546657526 0
@@ -5968,6 +5966,6 @@
 50E:\React\namasteReact\node_modules\.bin\parcel.cmd133398510761818603 0
 50E:\React\namasteReact\node_modules\.bin\semver.ps1133398510761818603 0
 48E:\React\namasteReact\node_modules\.bin\svgo.ps1133398510761838605 0
-44E:\React\namasteReact\dist\index.6bd02f5a.js133400295613467849 0
-44E:\React\namasteReact\dist\index.7826abd7.js133401081347259201 0
-37E:\React\namasteReact\dist\index.html133401081284842072 0
+44E:\React\namasteReact\dist\index.1ff39644.js133401170228042419 0
+44E:\React\namasteReact\dist\index.7826abd7.js133401178698435330 0
+37E:\React\namasteReact\dist\index.html133401178697765304 0
