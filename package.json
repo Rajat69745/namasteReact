@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajat69745/namasteReact.git"
+  },
+  "keywords": [
+    "abunjingBunjing"
+  ],
+  "author": "reactRajya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajat69745/namasteReact/issues"
+  },
+  "homepage": "https://github.com/Rajat69745/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

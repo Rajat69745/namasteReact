@@ -1,7 +1,8 @@
-const heading= React.createElement('h5',
 
-{id:'heading', alpha:'abc'}
-,'namaste react'
+import React from 'react'
+import { ReactDOM } from 'react'
+const heading= React.createElement('h1',{id:'heading', alpha:'abc'}
+,'namaste op'
 )
 
 console.log(heading)
