@@ -80,7 +80,7 @@ h5{
 .resContainer{
     display: grid;
     width: 80%;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(6,1fr);
     margin: auto;
     justify-content: center;
     justify-content: space-between;

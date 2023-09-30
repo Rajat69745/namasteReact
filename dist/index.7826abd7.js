@@ -27546,11 +27546,60 @@ let swiggyData = [
         veg: true,
         rating: 5,
         key: 5
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0vvulfbahjxjz6k4uwi",
+        restoName: "Meghana Food",
+        price: "300",
+        veg: false,
+        rating: 4.5,
+        key: 6
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_324,c_fill/qltgnkyywuo5gmnpqzbm",
+        restoName: "Hotel Empire",
+        price: "390",
+        veg: false,
+        rating: 3.9,
+        key: 7
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cd832b6167eb9f88aeb1ccdebf38d942",
+        restoName: "Truffles",
+        price: "700",
+        veg: true,
+        rating: 2,
+        key: 8
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/fjqcvqfgqlw6h0atques",
+        restoName: "Dominos",
+        price: "200",
+        veg: true,
+        rating: 4,
+        key: 9
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e33e1d3ba7d6b2bb0d45e1001b731fcf",
+        restoName: "Burger King",
+        price: "100",
+        veg: false,
+        rating: 3,
+        key: 10
+    },
+    {
+        image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/o2rwujynxk8vhkbtdtvb",
+        restoName: "Corner House",
+        price: "350",
+        veg: true,
+        rating: 5,
+        key: 11
     }
 ];
 const Body = ()=>{
     _s();
     const [filterData, setFilterData] = (0, _reactDefault.default).useState(swiggyData);
+    (0, _reactDefault.default).useEffect(()=>{}, []);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "body",
         children: [
@@ -27560,13 +27609,13 @@ const Body = ()=>{
                     children: "Search"
                 }, void 0, false, {
                     fileName: "src/components/Body.jsx",
-                    lineNumber: 37,
-                    columnNumber: 13
+                    lineNumber: 63,
+                    columnNumber: 17
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/components/Body.jsx",
-                lineNumber: 36,
-                columnNumber: 9
+                lineNumber: 62,
+                columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                 className: "filter-btn",
@@ -27578,8 +27627,8 @@ const Body = ()=>{
                 children: "Top Rated Resto"
             }, void 0, false, {
                 fileName: "src/components/Body.jsx",
-                lineNumber: 40,
-                columnNumber: 9
+                lineNumber: 66,
+                columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                 onClick: ()=>{
@@ -27588,8 +27637,8 @@ const Body = ()=>{
                 children: "all resto"
             }, void 0, false, {
                 fileName: "src/components/Body.jsx",
-                lineNumber: 53,
-                columnNumber: 9
+                lineNumber: 79,
+                columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "resContainer",
@@ -27600,22 +27649,22 @@ const Body = ()=>{
                         rating: el.rating
                     }, el.key, false, {
                         fileName: "src/components/Body.jsx",
-                        lineNumber: 58,
-                        columnNumber: 6
+                        lineNumber: 84,
+                        columnNumber: 10
                     }, undefined))
             }, void 0, false, {
                 fileName: "src/components/Body.jsx",
-                lineNumber: 55,
-                columnNumber: 9
+                lineNumber: 81,
+                columnNumber: 13
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/components/Body.jsx",
-        lineNumber: 34,
-        columnNumber: 5
+        lineNumber: 60,
+        columnNumber: 9
     }, undefined);
 };
-_s(Body, "oLQ7fb7RpB7hZHWSq45uuUoWeYE=");
+_s(Body, "V+tjMVDGf4Fe/I57V0ToBTUUttU=");
 _c = Body;
 exports.default = Body;
 var _c;
@@ -27626,7 +27675,7 @@ $RefreshReg$(_c, "Body");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./RestoCard":"bIRrI"}],"bIRrI":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./RestoCard":"bIRrI","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"bIRrI":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ca03 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
